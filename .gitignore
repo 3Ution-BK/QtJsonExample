@@ -1,0 +1,5 @@
+# Visual studio code
+.vscode/**
+
+# Build binaries
+build/**
